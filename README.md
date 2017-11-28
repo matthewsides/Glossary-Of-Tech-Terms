@@ -11,9 +11,9 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 
 
-## Scrum [1]
+### [1] Scrum 
 
-10 Key SCRUM Terms
+#### 10 Key SCRUM Terms
 
 1)Sprint
 
