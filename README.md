@@ -116,7 +116,10 @@ Object-oriented programming (OOP) is a programming paradigm organized around obj
 ▪ Objects communicate with each other through functions.
 
 ▪ New data and functions may be added whenever necessary.
- 
+
+### Relationship Between the Programming Paradigms
+
+ Excluding the obvious fact that Event-Driven, Object-Orientated and Procedural programming are Programming Paradigms, the relationship between the paradigms is that they may all be used inconjunction with eachother meaning 
 
 ## [3] Algorithms
 
@@ -145,6 +148,28 @@ This step is deterministic, since the code language used is relative and as long
 ## [4] IDE
 
 An integrated development environment (IDE) is a software suite that consolidates the basic tools developers need to write and test software. 
+  
+## [5] Complier
 
+'High-level language is converted into binary language in various phases.'
+A compiler is a program that converts high-level language to assembly language. Which is then converted into Machine level language from assembly language. 
+
+### How a Compiler functions:
+
+▪ User writes a program in a language (high-level language).
+
+▪ The compiler, compiles the program and translates it to assembly program (low-level language).
+
+▪ An assembler then translates the assembly program into machine code (object).
+
+▪ A linker tool is used to link all the parts of the program together for execution (executable machine code).
+
+▪  A loader loads all of them into memory and then the program is executed.
+
+### Interpreter
+
+An Interpreter is a program that executes instructions written in a high-level language. There are two ways to run programs written in a high-level language. The most common is to compile the program (covered above); the other method is to pass the program through an interpreter.
+
+An interpreter translates high-level instructions into an intermediate form, which it then executes.
 
 
