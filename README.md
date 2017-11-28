@@ -3,9 +3,9 @@
 This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects or text with explanations;a brief Dictionary.
 
 
-▪ Scrum        [1] 
+▪ [1] Scrum        
 
-▪ Programming Paradigms     [2]
+▪ [2] Programming Paradigms    
 
 ▪ 
 
