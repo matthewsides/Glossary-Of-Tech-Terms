@@ -106,3 +106,7 @@ This step is deterministic, since the code language used is relative and as long
 
 ## [4] IDE
 
+An integrated development environment (IDE) is a software suite that consolidates the basic tools developers need to write and test software. 
+
+
+
