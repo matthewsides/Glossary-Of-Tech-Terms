@@ -82,4 +82,4 @@ Object-oriented programming (OOP) is a programming paradigm organized around obj
 
 ## [3] Algorithms
 
-An algorithm is a set of instructions.
+An algorithm is a set of instruction, used for calculations or other problem-solving operations.
