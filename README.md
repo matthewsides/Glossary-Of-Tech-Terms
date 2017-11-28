@@ -11,6 +11,9 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ▪ [4] IDE
 
+▪ [5] Compiler
+
+▪ [6] Interpreter
 
 ## [1] Scrum 
 
@@ -166,7 +169,7 @@ A compiler is a program that converts high-level language to assembly language. 
 
 ▪  A loader loads all of them into memory and then the program is executed.
 
-### Interpreter
+### [6] Interpreter
 
 An Interpreter is a program that executes instructions written in a high-level language. There are two ways to run programs written in a high-level language. The most common is to compile the program (covered above); the other method is to pass the program through an interpreter.
 
