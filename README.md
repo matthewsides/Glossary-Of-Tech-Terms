@@ -72,6 +72,17 @@ A programming paradigm is a style, or “way,” of programming.
 
 Procedural programming is a paradigm based on the concept of using procedures. Procedure (sometimes also called subprogram, routine or method) is a sequence of commands to be executed.
 
+## Characteristics of Procedural 
+
+▪ It focuses on process rather than data.
+
+▪ It takes a problem as a sequence of things to be done such as reading, calculating and printing. Hence, a number of functions are written to solve a problem.
+
+▪ A program is divided into a number of functions and each function has clearly defined purpose.
+Most of the functions share global data.
+
+▪ Data moves openly around the system from function to function.
+
 ### Event Driven
 
 Event-driven programming is a programming paradigm in which the flow of program execution is determined by events - for instance a user action such as a mouse click, key press, or a message from the operating system or another program.
