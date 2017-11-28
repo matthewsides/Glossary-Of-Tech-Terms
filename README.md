@@ -15,11 +15,11 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 #### 10 Key SCRUM Terms
 
-1) Sprint
+1 Sprint
 
 Sprint is an iteration of work in which an increment of product functionality is implemented. This usually lasts 30 days, though may vary depending on the situation and amount of time allocated or avaliable.
 
-2) Sprint Backlog
+2 Sprint Backlog
 
 Sprint Backlog essentially defines the work for a sprint represented by the tasks and must be met or completed to realize the sprint goals. 
 
