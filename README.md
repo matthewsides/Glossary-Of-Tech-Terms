@@ -89,12 +89,34 @@ Event-driven programming is a programming paradigm in which the flow of program 
 
 #### Characteristics of Event Driven
 
+▪ Service Orientated 
+
+▪ It can be time driven meaning that specific code may run at a certain time (pre-set trigger).
+
+▪ It uses event handlers, which is a type of function or method that runs a specific action when a specific event is triggered. 
+
+▪ Event Driven programming is typically visual, ensuring its simplicity and ease of development 
+
+▪
 
 ### Object Orientated
 
 Object-oriented programming (OOP) is a programming paradigm organized around objects rather than "actions" and data rather than logic.
 
 #### Characteristics of Object Orientated
+
+▪ It emphasis in own data rather than procedure.
+
+▪ It is based on the principles of inheritance, polymorphism, encapsulation and data abstraction.
+
+▪ It implements programs using the objects.
+
+▪ Data and the functions are wrapped into a single unit called class so that data is hidden and therefore safe from accidental alternation.
+
+▪ Objects communicate with each other through functions.
+
+▪ New data and functions may be added whenever necessary.
+ 
 
 ## [3] Algorithms
 
