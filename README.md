@@ -7,8 +7,9 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ▪ [2] Programming Paradigms    
 
-▪ [3]
+▪ [3] Algorithms
 
+▪ [4] 
 
 
 ## [1] Scrum 
