@@ -9,7 +9,7 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ▪ [3] Algorithms
 
-▪ [4] 
+▪ [4] IDE
 
 
 ## [1] Scrum 
@@ -103,3 +103,6 @@ Optionally verify each step in the process for some simple input. Though ensure 
 #### 4. Translate each step into code 
 
 This step is deterministic, since the code language used is relative and as long as the steps translated into a High-Level-programming language are the same, the outcome should be similiar after the code is compiled into Machine-code or Lower-level.
+
+## [4] IDE
+
