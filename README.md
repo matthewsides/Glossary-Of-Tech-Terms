@@ -14,6 +14,8 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ## [1] Scrum 
 
+Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. 
+
 ### 10 Key SCRUM Terms
 
 #### 1. Sprint
@@ -79,3 +81,5 @@ Event-driven programming is a programming paradigm in which the flow of program 
 Object-oriented programming (OOP) is a programming paradigm organized around objects rather than "actions" and data rather than logic.
 
 ## [3] Algorithms
+
+An algorithm is a set of instructions.
