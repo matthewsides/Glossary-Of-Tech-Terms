@@ -94,4 +94,11 @@ A problem can usually be interpreted in multiple ways and the response is what i
 
 The above heading or idea of 'explore the problem space' essentially refering to not constraining (rigorous constraints)  yourself whilst thinking and solving the problem,as this usually leads to long lists of steps that may not necessarily coincide with the steps of an algorithm. Inconjunction with the idea of exploring the problem space rather then constraning oneself, it is acceptable to note loose ideas of a plan down, though it must be acknowledged that the problem is still in the thought proccess stage ( your still thinking of the problem) and that the list of ideas may not be the most ambiable (suitable) to solving the problem.  
 
+#### 3. Specify a plan and elaborate into steps
+
+Essentially put the overall plan into simple steps (flow chart or sudo code is applicable) that may be read and understood after a brief flick, ensure that  pronouns aren't used and be very specific. 
+
+Optionally verify each step in the process for some simple input. Though ensure that there is no confusion as to what should happen and is happening, preferably pretending that you do not know the function or purpose of the pseudocode or what its doing when reading through it (Note: could ask external help for this). 
+
+#### 4. 
 
