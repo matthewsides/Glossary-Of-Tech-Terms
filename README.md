@@ -89,15 +89,15 @@ Event-driven programming is a programming paradigm in which the flow of program 
 
 #### Characteristics of Event Driven
 
-▪ Service Orientated 
+▪ Service Orientated meaning that it provides services that are available on a network, ensruing that code does not have to be repeated or rewritten everytime and can be referenced.  
 
 ▪ It can be time driven meaning that specific code may run at a certain time (pre-set trigger).
 
 ▪ It uses event handlers, which is a type of function or method that runs a specific action when a specific event is triggered. 
 
-▪ Event Driven programming is typically visual, ensuring its simplicity and ease of development 
+▪ Event Driven programming is typically visual, ensuring its simplicity and ease of development. 
 
-▪
+▪ It is based around events (hence the name).
 
 ### Object Orientated
 
