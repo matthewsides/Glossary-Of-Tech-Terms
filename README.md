@@ -77,3 +77,5 @@ Event-driven programming is a programming paradigm in which the flow of program 
 ### Object Orientated
 
 Object-oriented programming (OOP) is a programming paradigm organized around objects rather than "actions" and data rather than logic.
+
+## [3] Algorithms
