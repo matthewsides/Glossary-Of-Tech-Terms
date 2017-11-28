@@ -83,3 +83,15 @@ Object-oriented programming (OOP) is a programming paradigm organized around obj
 ## [3] Algorithms
 
 An algorithm is a set of instruction, used for calculations or other problem-solving operations.
+
+### Implementation proccess of Algorithm
+
+#### 1. Establish the Rules of a Problem
+
+A problem can usually be interpreted in multiple ways and the response is what is integral in this instance, though complications may be encountered, the proccess of figuring out what went wrong is the ideology that programming is based around (the point of programming).
+
+#### 2. Explore the problem space
+
+The above heading or idea of 'explore the problem space' essentially refering to not constraining (rigorous constraints)  yourself whilst thinking and solving the problem,as this usually leads to long lists of steps that may not necessarily coincide with the steps of an algorithm. Inconjunction with the idea of exploring the problem space rather then constraning oneself, it is acceptable to note loose ideas of a plan down, though it must be acknowledged that the problem is still in the thought proccess stage ( your still thinking of the problem) and that the list of ideas may not be the most ambiable (suitable) to solving the problem.  
+
+
