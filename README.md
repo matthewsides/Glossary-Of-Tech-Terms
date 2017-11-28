@@ -100,5 +100,6 @@ Essentially put the overall plan into simple steps (flow chart or sudo code is a
 
 Optionally verify each step in the process for some simple input. Though ensure that there is no confusion as to what should happen and is happening, preferably pretending that you do not know the function or purpose of the pseudocode or what its doing when reading through it (Note: could ask external help for this). 
 
-#### 4. 
+#### 4. Translate each step into code 
 
+This step is deterministic, since the code language used is relative and as long as the steps translated into a High-Level-programming language are the same, the outcome should be similiar after the code is compiled into Machine-code or Lower-level.
