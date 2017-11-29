@@ -207,7 +207,11 @@ Debugging is the process of finding and resolving defects or problems within the
 
 ### How the debugging process can be used to help develop more secure, robust applications.
 
-The debugging proccess can be used to help develop more secure, robust applications, though to first undert=stand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input. 
+The debugging proccess can be used to help develop more secure, robust applications, though to first undertstand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input. 
 
-This essentially means that 
+This links into the proccess of debugging code as through debugging, erroneous input implications may be encountered during run-mode and thereafter fixed through writing a failsafe for when such input is given or action initiated, essentially accounting for the defect and building upon it thus making the application more robust as the problem is accounted for (hindsight). 
+
+Furthermore using the debugging process errors may be found during build or run mode and sorted (code tweaked) thus ensuring that said errors are not encountered again, in particular finding errors detrimental to whether the software will even run or freeze upon initiating a certain function etc.  This is a particularlly useful metholodgy or proccess used by most coders working for organisations so as to ensure there are no problems upon release of the software or program they are making to the client or public (since an insecure program will ganer unease and impact branding). 
+
+Inaddition the errors may be documented and thus in future projects if any similiar problems occur the document may be referenced. The debugging proccess is essentially crucial to helping develop and build a more secure, robust application, as errors (logical,syntax and user errors) are located and built upon with fail safes put in place to tackle said errors (build upon the mistakes, learning in the proccess and gaining experience as to the best way to structure and code a program, thus improving the robustness).
 
