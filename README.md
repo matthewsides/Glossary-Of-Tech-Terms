@@ -15,6 +15,8 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ▪ [6] Interpreter
 
+▪ [7] Debugging
+
 ## [1] Scrum 
 
 Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. 
@@ -193,10 +195,13 @@ A compiler is a program that converts high-level language to assembly language. 
 
 ▪  A loader loads all of them into memory and then the program is executed.
 
-### [6] Interpreter
+## [6] Interpreter
 
 An Interpreter is a program that executes instructions written in a high-level language. There are two ways to run programs written in a high-level language. The most common is to compile the program (covered above); the other method is to pass the program through an interpreter.
 
 An interpreter translates high-level instructions into an intermediate form, which it then executes.
+
+## [7] Debugging
+
 
 
