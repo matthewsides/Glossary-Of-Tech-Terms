@@ -235,6 +235,9 @@ Coding standards define a programming style. A coding standard does not usually 
 
 ### Why a coding standard is necessary in a team as well as for an individual.
 
+Coding standards are necessary in a team as well as for an individual because the use of coding standings basically ensure that code is more "maintainable" and easier to read and understand when another developer views the code. The fundemental problem of not using a coding standard for a language stems from when a particular style is adapted and becomes second nature which will be used in everything that is created, however the problems are more noticable when coding for bigger projects that lead to the introduction of additional people to help create the large application as conflicts in the way the code is written will likely or most definitely appear as what is understandable to one developer may not be understandable to another (conform to their style). This is commonly seen in the gaming industry where franchises such as call of duty tend to re-create from scratch rather than recycling old code since it is likely that the standards they have used will not be friendly to them. In regards to the nessecity for an individual, as briefly mentioned above it can improve the structure, make the code more maintainable and easier to read and understand not just for the individual but also anyone else other than the developer reading through the code.
+
+
 
 
 
