@@ -164,6 +164,8 @@ Moreover another common feature of an IDE would be the libaries, used in IDE's t
 
 ### The use of an IDE for development of applications contrasted with not using an IDE.
 
+The fundemental differences of using an IDE for the development of applications contrasted with not using an IDE stem from Adrons ideology of moving tools from local onto a network outsourcing it, making it easier to access and sharing code which in an IDE is compiled into libaries to further make things easier. Whilst not using an IDE there are no pre-set or specific libaries to call upon, meaning that it must be done manually making it a more strenous and increasing the longevity of the task (program), though certain os functions may be called upon, using said functions may affect the compatability of the application with other OS or platforms.
+
 ## [5] Complier
 
 'High-level language is converted into binary language in various phases.'
