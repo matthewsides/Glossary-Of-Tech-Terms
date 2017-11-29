@@ -170,6 +170,9 @@ Furthermore depending on the language that the program will run on, the choice o
 
 Moreover  IDE's offer a broad and wide range of features and tools that can help improve the rate in which the project is being done and the debugging as IDE's typically highlight as to what it cannot execute or cannot understand pointing to a certain line where it encountered the error also stating whether the error was a syntax,logical or user, thus making it easier to distinguish and fix incomparision to not using an IDE (for instance vi or emacs, though could be argued that vi and emacs have features similiar to IDE's, a libary), which doesnt point out any defects or problems and thus must be manually checked through either using a written debugging code or going through each line. 
 
+Inaddition IDE's commonly apply a colour scheme thus making it easier to distinguish a controlled statement, loop, error, string or intergers as everything is colour cordinated and thus easier to reference to the colour, providing visual aid.
+
+Thereafter IDE's can be regarded as more time efficent and user friendly in particular to those that may not be as particularly experienced, whilst not using an IDE for coding or building an application is more likely to cater to more experienced programmers who type their code in to an exceptional standard first time.Broadly stating programmers who work in scripting languages, or languages that evolved from scripting languages, are more likely to regard an IDE as optional.
 
 ## [5] Complier
 
