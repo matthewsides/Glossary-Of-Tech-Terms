@@ -166,7 +166,10 @@ Moreover another common feature of an IDE would be the libaries, used in IDE's t
 
 The fundemental differences of using an IDE for the development of applications contrasted with not using an IDE stem from Adrons ideology of moving tools from local onto a network outsourcing it, making it easier to access and sharing code which in an IDE is compiled into libaries to further make things easier. Whilst not using an IDE there are no pre-set or specific libaries to call upon, meaning that it must be done manually making it a more strenous and increasing the longevity of the task (program), though certain os functions may be called upon, using said functions may affect the compatability of the application with other OS or platforms.
 
-Furthermore depending on the language that the program will run on, the choice of IDE may be quite limited, and the choices available might be fairly complicated applications.  For instance when using one of Microsofts .NET languages (C#, Visual Basic, or ASP.NET),  Visual Studio is coomonly referred (mentioned), though it isnt the  only option, but is the most common.
+Furthermore depending on the language that the program will run on, the choice of IDE may be quite limited, and the choices available might be fairly complicated applications.For instance when using one of Microsofts .NET languages (C#, Visual Basic, or ASP.NET),  Visual Studio is coomonly referred (mentioned), though it isnt the  only option, but is the most common. ( Through not using an IDE contrasting or incomparision to using an IDE, not using an IDE is more flexible in that retrospect.(note:exclude/remove sentence in brackets))
+
+Moreover  IDE's offer a broad and wide range of features and tools that can help improve the rate in which the project is being done and the debugging as IDE's typically highlight as to what it cannot execute or cannot understand pointing to a certain line where it encountered the error also stating whether the error was a syntax,logical or user, thus making it easier to distinguish and fix incomparision to not using an IDE (for instance vi or emacs, though could be argued that vi and emacs have features similiar to IDE's, a libary), which doesnt point out any defects or problems and thus must be manually checked through either using a written debugging code or going through each line. 
+
 
 ## [5] Complier
 
