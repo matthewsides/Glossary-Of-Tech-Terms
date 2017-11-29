@@ -162,7 +162,7 @@ Furthermore IDE's feature a text editor area that allows developers to write, ed
 
 Moreover another common feature of an IDE would be the libaries, used in IDE's to import pre-set code, already developed into blocks for re-use to make coding easier and also shorten the amount of code in the text-editor.
 
-#### The use of an IDE for development of applications contrasted with not using an IDE.
+### The use of an IDE for development of applications contrasted with not using an IDE.
 
 ## [5] Complier
 
