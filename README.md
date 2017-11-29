@@ -231,7 +231,7 @@ Inaddition the errors may be documented and thus in future projects if any simil
 
 ## [8] Coding Standards
 
-
+Coding standards define a programming style. A coding standard does not usually conform to norms of defining what is wrong or right more in a abstract sense. It is essentially a set of rules and guidelines for the formatting of source code.
 
 ### Why a coding standard is necessary in a team as well as for an individual.
 
