@@ -151,7 +151,13 @@ This step is deterministic, since the code language used is relative and as long
 ## [4] IDE
 
 An integrated development environment (IDE) is a software suite that consolidates the basic tools developers need to write and test software. 
-  
+
+### Analysis of Common Features of An IDE
+
+The common features of an Intergrated Development System usually consist of a colour scheme used to indicate or differentiate between comments, conditional statements, string, int,  etc. from other code. 
+
+Furthermore IDE's feature a text editor area that allows developers to write, edit and save a document of code. In addition Auto-completion, syntax checks and bracket matching are also intergrated features of IDE's which suggests an autocompletion for a typed piece of code (auto completion) , Marks out blocks of code to improve the structure  (Bracket Matching) and recognises incorrect use of syntax and highlights any errors (syntax checks).
+
 ## [5] Complier
 
 'High-level language is converted into binary language in various phases.'
