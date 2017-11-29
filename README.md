@@ -207,3 +207,7 @@ Debugging is the process of finding and resolving defects or problems within the
 
 ### How the debugging process can be used to help develop more secure, robust applications.
 
+The debugging proccess can be used to help develop more secure, robust applications, though to first undert=stand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input. 
+
+This essentially means that 
+
