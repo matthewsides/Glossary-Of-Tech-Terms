@@ -177,6 +177,22 @@ A compiler is a program that converts high-level language to assembly language. 
 
 ▪  A loader loads all of them into memory and then the program is executed.
 
+### Steps from Writing code to Execution
+
+▪ A flowchart or psuedo code is usually pieced together, with the flowchart or psuedo code being a representation of how the program should function (similiar to a prototype, though not actually coded).
+
+▪ The functions, operators, statements, etc. in Psuedo code are usually based on ones own knowledge, though in creating a flow chart specific shapes represent specific things for instance the circle represents the beginning and end of a program, whilst the square represnts a proccess, the rhombus relates to taking input and giving output (so for c++ a representation of cin and cout) and the diamond is a visual representation for conditional statements like if, else etc.
+
+▪ Once an planned algorithm is created the next step would be to translate said psuedo code or flowchart to High-level-Language (code), which as covered briefly in the above step each shape in a flowchart relates or should relate to the functions, conditional statements, etc. found in the high-level language. Whilst if psuedo code is being used it should be based on ones own representation of all the functions, statments etc. in the language.
+
+▪ After the algortihm has successfully been converted, the IDE's compiler should compile the program and translate it to assembly program (low-level language) (essentially the compiler takes care of the next steps).
+
+▪ An assembler should then translate the assembly program into machine code (object).
+
+▪ A linker tool is used to link all the parts of the program together for execution (executable machine code).
+
+▪  A loader loads all of them into memory and then the program is executed.
+
 ### [6] Interpreter
 
 An Interpreter is a program that executes instructions written in a high-level language. There are two ways to run programs written in a high-level language. The most common is to compile the program (covered above); the other method is to pass the program through an interpreter.
