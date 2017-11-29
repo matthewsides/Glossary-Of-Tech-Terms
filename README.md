@@ -17,6 +17,8 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ▪ [7] Debugging
 
+▪ [8] Coding Standards
+
 ## [1] Scrum 
 
 Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. 
@@ -226,4 +228,13 @@ This links into the proccess of debugging code as through debugging, erroneous i
 Furthermore using the debugging process errors may be found during build or run mode and sorted (code tweaked) thus ensuring that said errors are not encountered again, in particular finding errors detrimental to whether the software will even run or freeze upon initiating a certain function etc.  This is a particularlly useful metholodgy or proccess used by most coders working for organisations so as to ensure there are no problems upon release of the software or program they are making to the client or public (since an insecure program will ganer unease and impact branding). 
 
 Inaddition the errors may be documented and thus in future projects if any similiar problems occur the document may be referenced. The debugging proccess is essentially crucial to helping develop and build a more secure, robust application, as errors (logical,syntax and user errors) are located and built upon with fail safes put in place to tackle said errors (build upon the mistakes, learning in the proccess and gaining experience as to the best way to structure and code a program, thus improving the robustness).
+
+## [8] Coding Standards
+
+
+
+### Why a coding standard is necessary in a team as well as for an individual.
+
+
+
 
