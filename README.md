@@ -176,6 +176,11 @@ Inaddition IDE's commonly apply a colour scheme thus making it easier to disting
 
 Thereafter IDE's can be regarded as more time efficent and user friendly in particular to those that may not be as particularly experienced, whilst not using an IDE for coding or building an application is more likely to cater to more experienced programmers who type their code in to an exceptional standard first time.Broadly stating programmers who work in scripting languages, or languages that evolved from scripting languages, are more likely to regard an IDE as optional.
 
+### IDE Comparision (Visual studios | Notpad++)
+
+
+
+
 ## [5] Complier
 
 'High-level language is converted into binary language in various phases.'
