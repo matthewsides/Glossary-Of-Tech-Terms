@@ -253,6 +253,8 @@ Though formulating coding standards or ensuring that they are followed  inpartic
 The Threats that an organisation may face can stem from internal or external sources, human error or an act of malicious intentions and software that either exploits the organisations systems functions installed on to the devices stored in there facilitys or human psyche, thus the continuation of such threats cause a plethora of problems for organisations, in particular a research carried out by IBM (In the 2016 Cyber Security Intelligence Index) found that in 2016 60% of all breaches (attacks) were caused internally, hence the reason for procedures and policys brought about by organisations.
 
 
+Internal 
+
 External  
 
 Further elaborating on the idea of internal threats, the term 
