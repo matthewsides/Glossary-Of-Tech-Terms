@@ -250,7 +250,7 @@ Though formulating coding standards or ensuring that they are followed  inpartic
 
 ## [9] Threats an Organisation would face
 
-The Threats that an organisation may face can stem from internal or external sources, human error or an act of malicious intentions and software that either exploits the organisations systems functions installed on to the devices stored in there facilitys or human psyche, thus the continuation of such threats cause a plethora of problems for organisations, in particular in 2016 60% of all breaches (attacks) were caused internally.
+The Threats that an organisation may face can stem from internal or external sources, human error or an act of malicious intentions and software that either exploits the organisations systems functions installed on to the devices stored in there facilitys or human psyche, thus the continuation of such threats cause a plethora of problems for organisations, in particular a research carried out by IBM found that in 2016 60% of all breaches (attacks) were caused internally, hence the reason for procedures and policys brought about by organisations.
 
 
 External  
