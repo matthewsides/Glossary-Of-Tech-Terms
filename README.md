@@ -19,6 +19,8 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ▪ [8] Coding Standards
 
+▪[9] Threats an Organisation would face
+
 ## [1] Scrum 
 
 Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. 
@@ -246,7 +248,17 @@ In regards to the nessecity for an individual, as briefly mentioned above it can
 
 Though formulating coding standards or ensuring that they are followed  inparticular for large groups of developers working on a project togetherthe solution would be a coding standards document as it  tells developers how they must write their code. Instead of each developer coding in their own preferred style, they will write all code to the standards outlined in the document. This makes sure that a large project is coded in a consistent style — parts are not written differently by different programmers. Not only does this solution make the code easier to understand, it also ensures that any developer who looks at the code will know what to expect throughout the entire application.
 
-## [9]
+## [9] Threats an Organisation would face
+
+The Threats that an organisation may face can stem from internal or external sources, human error or an act of malicious intentions and software that either exploits the organisations systems functions installed on to the devices stored in there facilitys or human psyche, thus the continuation of such threats cause a plethora of problems for organisations, in particular in 2016 60% of all breaches (attacks) were caused internally.
+
+
+External  
+
+Further elaborating on the idea of internal threats, the term 
+
+Human 
+
 
 
 
