@@ -252,16 +252,37 @@ Though formulating coding standards or ensuring that they are followed  inpartic
 
 The Threats that an organisation may face can stem from internal or external sources, human error or an act of malicious intentions and software that either exploits the organisations systems functions installed on to the devices stored in there facilitys or human psyche, thus the continuation of such threats cause a plethora of problems for organisations, in particular a research carried out by IBM (In the 2016 Cyber Security Intelligence Index) found that in 2016 60% of all breaches (attacks) were caused internally, hence the reason for procedures and policys brought about by organisations.
 
-Further delving into the external aspect, this commonly includes uncontrollable components that an organisation may not alter through the course, since external threats are dynamic and uncertain (therefore a company has limited control over it).
+Further delving into the external aspect, this is usually intruders outside trying to gain access to files from the organisation that are not already permitted to be viewed from an outside company perspective. The external threats are generally dynamic and uncertain, thus an organisation may not alter the course of events to happen in the event of a hack, though precautions may be taken to ensure there is no bypass, ensuring each system has firewall and anti virus protection. Whilst on the Human side or aspect implement procedures and rules and regulations that need to be followed either in the event or autonomously throughout their time working for the organisation to ensure no information is leaked. 
 
+In continuation, elaborating on the idea of internal threats, the term internal links to the inside of an organisation and the threats that an organistion could face linking to internal usually stem from an employee within an organisation that becomes disaffected and trys to hack the organisation network.Thereafter leading to files being lost or retrieved and used to the companys disadvantage and usually the employees advantage. 
 
-In continuation, elaborating on the idea of internal threats, the term 
+Moroever with regards to internal and human threats, there have been numerous cases where an organisations files that have been deemed a priority and top secret have been released onto public domain or sent to people outside the company, though ocassionally done purposely, has been done accidently which for an organisation is a threat within itself. 
 
-Human 
+More Threats an Organisation May Face-
 
+Trojans
 
+Denial of service (attack)
 
-Internal 
+Worms attack
 
-External 
+Phishing
+
+Hacking
+
+Identity theft 
+
+Piggy backing
+
+Network Monitoring 
+
+Data Theft 
+
+Technical failures
+
+Employees
+
+Malware
+
+Viruses
 
