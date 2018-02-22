@@ -19,7 +19,9 @@ This is a alphabetic,multi-sectioned list pertaining to tech dialects, subjects 
 
 ▪ [8] Coding Standards
 
-▪[9] Threats an Organisation would face
+▪[9] Technical Solutions Comparision
+
+▪[10] Threats an Organisation would face
 
 ## [1] Scrum 
 
@@ -248,7 +250,18 @@ In regards to the nessecity for an individual, as briefly mentioned above it can
 
 Though formulating coding standards or ensuring that they are followed  inparticular for large groups of developers working on a project togetherthe solution would be a coding standards document as it  tells developers how they must write their code. Instead of each developer coding in their own preferred style, they will write all code to the standards outlined in the document. This makes sure that a large project is coded in a consistent style — parts are not written differently by different programmers. Not only does this solution make the code easier to understand, it also ensures that any developer who looks at the code will know what to expect throughout the entire application.
 
-## [9] Threats an Organisation would face
+## [9] Technical Solutions Comparision 
+
+Technical solutions may essentially be compared through effective analysis.  Effective analysis in principle relates to the measurement of a system (program), during which is relative or in another term considered in relation or in proportion to something else. Effective analysis usually starts through comparing the problem or opportunity system context. 
+
+The analysis will usually explain basic system derivatives, covering how well the system functions , using performance criteria associated with both the system’s primary and enabling functions. Whilst also checkking whether the system suits the requirements set  or expected  by user's, derived from the systems purpose. 
+
+Subsequently with regards to a product system there are a set of generic non-functional qualities that are associated with different types of solution patterns or technology, e.g., safety, security, reliability, maintainability, usability, etc. These criteria are often explicitly stated as parts of the domain knowledge of related technical disciplines in technology domains.
+
+In addition to assessments of the absolute effectiveness of a given solution system, the effectiveness anaylisis in addition to effectiveness, must be combined with the limitations of cost and timescales included. In general, the role of system analysis is to identify the proposed solutions which can provide some effectiveness within the cost and time allocated to any given iteration of the systems approach (used to identify the best software to use to meet requirements and fix a problem). If none of the solutions can deliver an effectiveness level that justifies the proposed investment or meets the standard expected, then it is necessary to return to the original framing of the problem. If at least one solution is assessed as sufficiently effective, then a choice between solutions can be proposed.
+
+
+## [10] Threats an Organisation would face
 
 The Threats that an organisation may face can stem from internal or external sources, human error or an act of malicious intentions and software that either exploits the organisations systems functions installed on to the devices stored in there facilitys or human psyche, thus the continuation of such threats cause a plethora of problems for organisations, in particular a research carried out by IBM (In the 2016 Cyber Security Intelligence Index) found that in 2016 60% of all breaches (attacks) were caused internally, hence the reason for procedures and policys brought about by organisations.
 
