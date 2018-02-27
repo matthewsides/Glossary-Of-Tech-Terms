@@ -136,25 +136,47 @@ Excluding the obvious fact that Event-Driven, Object-Orientated and Procedural p
 
 An algorithm is a set of instructions  (rules to be followed), used for calculations or other problem-solving operations.
 
-### Implementation proccess of Algorithm
+### Proccess of building an Application
 
-#### 1. Establish the Rules of a Problem
+#### I.   Requirement gathering 
 
-A problem can usually be interpreted in multiple ways and the response is what is integral in this instance, though complications may be encountered, the proccess of figuring out what went wrong is the ideology that programming is based around (the point of programming).
+The act of requirement gathering (or “requirements elicitation”) essentially refers specifically to the practice of defining software requirements, said requirements are usually retrieved from a client.
 
-#### 2. Explore the problem space
+Furthermore during this phase the prospective client usually analyses market requirements and features that are in demand, delving into the supply and demand aspect of the market seeing whether there is a real need for the software that is being developed in the current market. This essentially molds the requirements.
 
-The above heading or idea of 'explore the problem space' essentially refering to not constraining (rigorous constraints)  yourself whilst thinking and solving the problem,as this usually leads to long lists of steps that may not necessarily coincide with the steps of an algorithm. Inconjunction with the idea of exploring the problem space rather then constraning oneself, it is acceptable to note loose ideas of a plan down, though it must be acknowledged that the problem is still in the thought proccess stage ( your still thinking of the problem) and that the list of ideas may not be the most ambiable (suitable) to solving the problem.  
+A comprehensive understanding of the customers’ needs and writing down features of the proposed software product are the keys to success in this phase. 
 
-#### 3. Specify a plan and elaborate into steps
 
-Essentially put the overall plan into simple steps (flow chart or sudo code is applicable) that may be read and understood after a brief flick, ensure that  pronouns aren't used and be very specific. 
+#### II.  Writing functional specifications 
 
-Optionally verify each step in the process for some simple input. Though ensure that there is no confusion as to what should happen and is happening, preferably pretending that you do not know the function or purpose of the pseudocode or what its doing when reading through it (Note: could ask external help for this). 
 
-#### 4. Translate each step into code 
 
-This step is deterministic, since the code language used is relative and as long as the steps translated into a High-Level-programming language are the same, the outcome should be similiar after the code is compiled into Machine-code or Lower-level.
+#### III. Creating architecture and design documents 
+
+
+
+#### IV.  Implementation and coding
+
+
+
+#### V.	  Testing and quality assurance 
+
+
+
+#### VI.	Software release 
+
+
+
+
+#### VII.	Documentation 
+
+
+
+
+#### VIII.Support and new features
+
+
+
 
 ## [4] IDE
 
