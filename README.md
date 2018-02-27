@@ -134,7 +134,7 @@ Excluding the obvious fact that Event-Driven, Object-Orientated and Procedural p
 
 ## [3] Algorithms
 
-An algorithm is a set of instructions, used for calculations or other problem-solving operations.
+An algorithm is a set of instructions  (rules to be followed), used for calculations or other problem-solving operations.
 
 ### Implementation proccess of Algorithm
 
