@@ -284,6 +284,10 @@ Moreover with regards to debugging the majority of IDE's also incorparate syntax
 Inaddition to having a runtime enviroment, which essentially allows a user to run a program one line at a time, useful for testing to see whether each line of code is working before formulating a complete program.
 
 
+Whilst another tool (though not particuarlly linked to debugging but the overall software quality) that is generally found in an IDE consists of build automation, which in principle automatically initiates proccess that would have ussually been done manually, useful when an extensive amount of code is present, improving the software quality , minimising bad software builds and saving resources. 
+
+fudementally 
+
 
 
  IDE's  though IDE's usually resort to a debugger
