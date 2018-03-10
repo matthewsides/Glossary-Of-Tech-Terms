@@ -130,6 +130,10 @@ Object-oriented programming (OOP) is a programming paradigm organized around obj
 
 ### Relationship Between the Programming Paradigms
 
+Programming paradigms are essentially a collective of concepts (concepts make up the paradigms), a programming paradigm may herald a different name but have the same set of concepts,a concept may be added to go from one paradigm to the next (programming paradigms build upon each other and branch out like a taxonomy, working inconjunction), this ties into the relationship or how the programming paradigms are linked. Often two paradigms that seem quite different (for example, functional  programming and object-oriented programming) differ by just one concept.  
+
+Though many of these paradigms are useless in practice, such as the empty paradigm (no concepts) or paradigms with only one concept.
+
 Excluding the obvious fact that Event-Driven, Object-Orientated and Procedural programming are Programming Paradigms, the relationship between the paradigms is that they may all be used inconjunction with eachother, since event driven programming supports all languages, whilst object orientated programming is essentailly a fix for the limitations of procedural programmingand therefore functions similiarly, though the implementation proccess  may be different.
 
 ## [3] Algorithms
