@@ -271,7 +271,7 @@ An interpreter translates high-level instructions into an intermediate form, whi
 
 ## [7] Debugging
 
-Debugging is the process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system.
+Debugging is the process of working through a program in a systematic way, finding and resolving defects or problems within the program that prevent correct operation of computer software or a system. 
 
 ### How the debugging process can be used to help develop more secure, robust applications.
 
