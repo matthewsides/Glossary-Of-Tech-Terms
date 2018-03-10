@@ -273,6 +273,11 @@ An interpreter translates high-level instructions into an intermediate form, whi
 
 Debugging is the process of working through a program in a systematic way, finding and resolving defects or problems within the program that prevent correct operation of computer software or a system. 
 
+### Debugging Tools and proccess
+
+The proccess of debugging is, as aliterated in the above section, the proccess of working through a program systematically, searching for faults within a program that prevent correct operation, thereafter resolving said defects once found.
+
+
 ### How the debugging process can be used to help develop more secure, robust applications.
 
 The debugging proccess can be used to help develop more secure, robust applications, though to first undertstand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input. 
