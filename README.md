@@ -277,6 +277,19 @@ Debugging is the process of working through a program in a systematic way, findi
 
 The proccess of debugging is, as aliterated in the above section, the proccess of working through a program systematically, searching for faults within a program that prevent correct operation, thereafter resolving said defects once found.
 
+Furthermore regarding the debugging proccess IDE's(Intergrated Development Enviroment) generally have intergrated tools that support and heave a portion of the workload during the debugging proccess. For instance python includes a logging module that allows a user to print values and analyse errors,this is more efficent and benifical, rather than being required to print each statement to see what value is being held in a variable having to move it later, other IDE's also include modules similiar or built for other reasons specifically with debugging in mind.
+
+Moreover with regards to debugging the majority of IDE's also incorparate syntax checks that automatically recognises incorrect use of syntax and highlights any errors, thus alleviating the work load expected by the user. 
+
+Inaddition to having a runtime enviroment, which essentially allows a user to run a program one line at a time, useful for testing to see whether each line of code is working before formulating a complete program.
+
+
+
+
+ IDE's  though IDE's usually resort to a debugger
+
+ logging module that allows you to print values and analyse errors.
+
 
 ### How the debugging process can be used to help develop more secure, robust applications.
 
