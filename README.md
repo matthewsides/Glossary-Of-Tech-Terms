@@ -148,35 +148,55 @@ A comprehensive understanding of the customers’ needs and writing down feature
 
 
 #### II.  Writing functional specifications 
+Following said client gathering, a review should ensue to determine whether said pre-defined or set requirements given by the client are plausible, subsequently then determining as to how to achieve said specifications (Functional specifications are based upon the product requirements documentation put forward), drawing upon a functional specification document, showing the behaviour or functionality of a software product on an abstract level.
+
+The prominence of the usage of writing functional specifications relate to the creation of a design document, manuals for end-users, functional and architecture documents, being a means to communicate among groups disconnected by their software development landscape. Although during the product development phase amendments to functional specifications may be necessary, keeping in view new marketing requirements. 
 
 
 
 #### III. Creating architecture and design documents 
 
+The architecture document in effect is formed once all the requirements have been collected and arranged. The document defines different components of the product and how they interact with each other. Whilst the design document details a written description of a software product, written by  a software designe in order to give a software development team overall guidance to the architecture of the software project.
 
 
 #### IV.  Implementation and coding
 
+The Implementation and coding phase is initiated when software developers take the design documents and development tools (editors, compilers, debuggers etc.) and start writing software. 
 
+This is an erroneous process and usually the longest phase in the product life cycle. Each developer has to write their own code to a standard, whilst collaborating with other developers to ensure that different components can interoperate with each other.
+
+Subsequently this problematic issue may-be generally bypassed through using or outlining coding standards beforehand, ensuring that the written procedures are followed or abided by, thus enabling the code to be similar structurally and aesthetically. 
+
+Furthermore, elaborating the reason for coding standards, during the project or product life cycle multiple people may modify files, therefore if people are not following the pre-set rules, this may easily break the whole compilation and building process. 
+
+For instance, duplicate definitions of the same variables may cause problems, while similarly, if included files are not written properly, you can easily cause the creation of loops.
 
 #### V.	  Testing and quality assurance 
+
+Subsequently once the implementation and coding stage is completed, the next phase in software development is to test said code to see whether it is functional and works to an exceptional standard meeting and assuring the quality. 
+
+This may be initiated through managing the product life cycle and verifying that the software meets the defined quality standards or customer agreements (quality assurance), thereafter with regards to the testing aspect may be instigated during the production phase, concerned with finding ways of breaking software, coding in segments or pushing out versions of said application software are integral to ensure a more accurate test. 
+
+In addition, throughout testing the ideology behind it is to get a group of testers to observe what the software does and to report on the level of quality as well as any serious issues they encounter (under the assumption that the system is flawed and has copious amounts of bugs).
 
 
 
 #### VI.	Software release 
 
+Before the subsequent marketing and selling of a software product it needs to be officially released. This essentially pertaining to the creation of a state of the software in a repository (a copy), ensuring that it has been tested for functionality, etc. 
+
+A version number is assigned to the released software.After releasing the software, development may continue but will not impact or make any subsequent changes to the released software. The development is usually carried on in a new branch and it may contain new features of the product. The released software is updated only if a bug fixed version is released. 
 
 
 
 #### VII.	Documentation 
 
-
+Reliable documentation is crucial throughout software development (life cycle). The presence of documentation helps keep track of all aspects of an application and improves on the quality of a software product. Furthermore, mainly focusing on development, maintenance and knowledge transfer to other developers. 
 
 
 #### VIII.Support and new features
 
-
-
+This usually heralds after the development of software, though is still integral to the cycle as users of said developed software may need support after release. In addition, new features may be a factor or prerequisite with updates coming out to compete with competitors’ products that may have other features.  Moreover, better support usually leads to better branding and devotion among user’s, creating or leading to the generation of a referral business.
 
 ## [4] IDE
 
