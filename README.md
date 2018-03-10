@@ -287,15 +287,6 @@ What is more IDE's also resort to the use of debuggers, fudementally a program w
 
 Whilst another tool (though not particuarlly linked to debugging but the overall software quality) that is generally found in an IDE consists of build automation, which in principle automatically initiates proccess that would have ussually been done manually, useful when an extensive amount of code is present, improving the software quality , minimising bad software builds and saving resources. 
 
-
-
-
-
- IDE's  though IDE's usually resort to a debugger
-
- logging module that allows you to print values and analyse errors.
-
-
 ### How the debugging process can be used to help develop more secure, robust applications.
 
 The debugging proccess can be used to help develop more secure, robust applications, though to first undertstand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input. 
