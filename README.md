@@ -134,7 +134,10 @@ Programming paradigms are essentially a collective of concepts (concepts make up
 
 Though many of these paradigms are useless in practice, such as the empty paradigm (no concepts) or paradigms with only one concept.
 
-Excluding the obvious fact that Event-Driven, Object-Orientated and Procedural programming are Programming Paradigms, the relationship between the paradigms is that they may all be used inconjunction with eachother, since event driven programming supports all languages, whilst object orientated programming is essentailly a fix for the limitations of procedural programmingand therefore functions similiarly, though the implementation proccess  may be different.
+The taxonomy of programming paradigms may be seen through the diagram displayed below:
+
+
+![Alt text](https://github.com/matthewsides/Glossary-Of-Tech-Terms/blob/master/programming_paradigms.jpg?raw=true "Optional Title")
 
 ## [3] Algorithms
 
