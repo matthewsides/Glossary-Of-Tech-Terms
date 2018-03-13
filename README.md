@@ -118,8 +118,6 @@ Object-oriented programming (OOP) is a programming paradigm organized around obj
 
 ▪ It emphasis in own data rather than procedure.
 
-▪ It is based on the principles of inheritance, polymorphism, encapsulation and data abstraction.
-
 ▪ It implements programs using the objects.
 
 ▪ Data and the functions are wrapped into a single unit called class so that data is hidden and therefore safe from accidental alternation.
