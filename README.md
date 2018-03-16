@@ -137,6 +137,8 @@ The taxonomy of programming paradigms may be seen through the diagram displayed 
 
 ![Alt text](https://github.com/matthewsides/Glossary-Of-Tech-Terms/blob/master/programming_paradigms.jpg?raw=true "Optional Title")
 
+Further building upon the idea that each paradigm utimately is made up of numerous conceptual methodologys, linking into the relationship between the three paradigms listed and covered in the above sections. The three paradigms (object,event and procedural) relationship may be seen to be tightly linked to the fact that all three of the paradigms may perform the same functions and produce the same outcome, the only difference is the way in which the proccess is performed (essentially the outcome for all the paradigms is the same, but how that outcome is achieved is ultimately different).
+
 ## [3] Algorithms
 
 An algorithm is a set of instructions  (rules to be followed), used for calculations or other problem-solving operations.
