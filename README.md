@@ -290,16 +290,24 @@ Whilst another tool (though not particuarlly linked to debugging but the overall
 
 ### Debugging tools 
 
-Breakpoints an intentional stopping or pausing place in a program to see what is happening and check for errors.
+▪ Breakpoints an intentional stopping or pausing place in a program to see what is happening and check for errors.
 A breakpoint can be set on source code by the progeammer to halt the program after a certain number of lines of code.
 
-Stepping a method of debugging which executes the code one line at a time to check for errors.
+▪ Stepping a method of debugging which executes the code one line at a time to check for errors.
 
-Run to cursor, keeps the debugger at a specified point within the code.This is generally applied when code is repetitive and called multiple times.
+▪ Run to cursor, keeps the debugger at a specified point within the code.This is generally applied when code is repetitive and called multiple times.
 
-Exception handling, the process of responding to the occurrence, during computation, of exceptions, often altering the flow ofprogram execution. Exceptions are frequently indications of problems that require debugging. When an exception occurs, the debugger writes an exception message to the Output window, unless it is disabled.
+▪ Exception handling, the process of responding to the occurrence, during computation, of exceptions, often altering the flow ofprogram execution. Exceptions are frequently indications of problems that require debugging. When an exception occurs, the debugger writes an exception message to the Output window, unless it is disabled.
 
-Different techniques in debugging (Standard, Specialised, etc.)
+▪ Different techniques in debugging (Standard, Specialised, etc.)
+
+▪ Interactive, Print,Tracing debugging, is the act of watching (live or recorded) trace statements, or print statements, that indicate the flow of execution of a process.
+
+▪ Remote debugging, meaning to set up or launch a program on a local network and debug it from the workstation running the platform.
+
+▪ Post-mortem debugging, 
+
+▪ Delta Debugging
 
 
 
