@@ -290,18 +290,17 @@ A breakpoint can be set on source code by the progeammer to halt the program aft
 
 ▪ Exception handling, the process of responding to the occurrence, during computation, of exceptions, often altering the flow ofprogram execution. Exceptions are frequently indications of problems that require debugging. When an exception occurs, the debugger writes an exception message to the Output window, unless it is disabled.
 
-▪ Different techniques in debugging (Standard, Specialised, etc.)
+▪ Different techniques in debugging (Standard, Specialised, etc.);
 
-▪ Interactive, Print,Tracing debugging, is the act of watching (live or recorded) trace statements, or print statements, that indicate the flow of execution of a process.
+Interactive, Print,Tracing debugging, is the act of watching (live or recorded) trace statements, or print statements, that indicate the flow of execution of a process.
 
-▪ Remote debugging, meaning to set up or launch a program on a local network and debug it from the workstation running the platform.
+Post-mortem debugging, is the debugging of a program after it has already crashed.
 
-▪ Post-mortem debugging, is the debugging of a program after it has already crashed.
+Delta Debugging, is a methodology to automate the debugging of programs, taking an input to a program that triggers a bug and making that input smaller using loops.
 
-▪ Delta Debugging, is a methodology to automate the debugging of programs, taking an input to a program that triggers a bug and making that input smaller using loops.
+Backtracking, relates to retracing ones steps or tracking the program backwards to locate mistakes.
 
-▪ Backtracking, relates to retracing ones steps or tracking the program backwards to locate mistakes.
-
+Remote debugging, meaning to set up or launch a program on a local network and debug it from the workstation running the platform.
 
 ### How the debugging process can be used to help develop more secure, robust applications.
 
