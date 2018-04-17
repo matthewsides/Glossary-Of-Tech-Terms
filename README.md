@@ -277,16 +277,7 @@ Debugging is the process of working through a program in a systematic way, findi
 
 The proccess of debugging is, as aliterated in the above section, the proccess of working through a program systematically, searching for faults within a program that prevent correct operation, thereafter resolving said defects once found.
 
-Furthermore regarding the debugging proccess IDE's(Intergrated Development Enviroment) generally have intergrated tools that support and heave a portion of the workload during the debugging proccess. For instance python includes a logging module that allows a user to print values and analyse errors,this is more efficent and benifical, rather than being required to print each statement to see what value is being held in a variable having to move it later, other IDE's also include modules similiar or built for other reasons specifically with debugging in mind.
-
-Moreover with regards to debugging the majority of IDE's also incorparate syntax checks that automatically recognises incorrect use of syntax and highlights any errors, thus alleviating the work load expected by the user. 
-
-Inaddition to having a runtime enviroment, which essentially allows a user to run a program one line at a time, useful for testing to see whether each line of code is working before formulating a complete program.
-
-What is more IDE's also resort to the use of debuggers, fudementally a program within the IDE that is used to detect errors. If the debugger detects errors, it may suggest what the type of error is and what line it is on. This is essentially most suitable and critical as if an IDE is to exclude the use of a debugger then it is likely to lead to an inefficent practice and poor software build, though there are other software programs that specialise in this exact proccess so though detrimental, it is still possible if exclude in the IDE and the software is compatible with the (chosen) language of choice.
-
-Whilst another tool (though not particuarlly linked to debugging but the overall software quality) that is generally found in an IDE consists of build automation, which in principle automatically initiates proccess that would have ussually been done manually, useful when an extensive amount of code is present, improving the software quality , minimising bad software builds and saving resources. 
-
+Furthermore regarding the debugging proccess IDE's(Intergrated Development Enviroment) generally have intergrated tools that support and heave a portion of the workload during the debugging proccess as alliterated / listed under the heading below. 
 
 ### Debugging tools 
 
@@ -305,10 +296,11 @@ A breakpoint can be set on source code by the progeammer to halt the program aft
 
 ▪ Remote debugging, meaning to set up or launch a program on a local network and debug it from the workstation running the platform.
 
-▪ Post-mortem debugging, 
+▪ Post-mortem debugging, is the debugging of a program after it has already crashed.
 
-▪ Delta Debugging
+▪ Delta Debugging, is a methodology to automate the debugging of programs, taking an input to a program that triggers a bug and making that input smaller using loops.
 
+▪ Backtracking, relates to retracing ones steps or tracking the program backwards to locate mistakes.
 
 
 ### How the debugging process can be used to help develop more secure, robust applications.
