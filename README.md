@@ -287,6 +287,22 @@ What is more IDE's also resort to the use of debuggers, fudementally a program w
 
 Whilst another tool (though not particuarlly linked to debugging but the overall software quality) that is generally found in an IDE consists of build automation, which in principle automatically initiates proccess that would have ussually been done manually, useful when an extensive amount of code is present, improving the software quality , minimising bad software builds and saving resources. 
 
+
+### Debugging tools 
+
+Breakpoints an intentional stopping or pausing place in a program to see what is happening and check for errors.
+A breakpoint can be set on source code by the progeammer to halt the program after a certain number of lines of code.
+
+Stepping a method of debugging which executes the code one line at a time to check for errors.
+
+Run to cursor, keeps the debugger at a specified point within the code.This is generally applied when code is repetitive and called multiple times.
+
+Exception handling, the process of responding to the occurrence, during computation, of exceptions, often altering the flow ofprogram execution. Exceptions are frequently indications of problems that require debugging. When an exception occurs, the debugger writes an exception message to the Output window, unless it is disabled.
+
+Different techniques in debugging (Standard, Specialised, etc.)
+
+
+
 ### How the debugging process can be used to help develop more secure, robust applications.
 
 The debugging proccess can be used to help develop more secure, robust applications, though to first undertstand how, it is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution and cope with erroneous input. 
