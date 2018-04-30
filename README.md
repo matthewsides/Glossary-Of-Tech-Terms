@@ -332,7 +332,7 @@ Though formulating coding standards or ensuring that they are followed  inpartic
 
 Technical solutions may essentially be compared through effective analysis.  Effective analysis in principle relates to the measurement of a system (program), during which is relative or in another term considered in relation or in proportion to something else. Effective analysis usually starts through comparing the problem or opportunity system context. 
 
-The analysis will usually explain basic system derivatives, covering how well the system functions , using performance criteria associated with both the system’s primary and enabling functions. Whilst also checking the fitness of purpose, whether the system suits the requirements set  or expected  by user's, derived from the systems purpose. 
+The analysis will usually explain basic system derivatives, covering how well the system functions , using performance criteria associated with both the system’s primary and enabling functions. Whilst also checking the fitness of purpose, whether the system suits the requirements set or expected by user's, derived from the systems purpose.  The maturity is also another factor for comparision, seeing whether the system is established and the support avaliable, meeting the intended use and purpose.
 
 Subsequently with regards to a product system there are a set of generic non-functional qualities that are associated with different types of solution patterns or technology, e.g., safety, security, reliability, maintainability, usability, etc. These criteria are often explicitly stated as parts of the domain knowledge of related technical disciplines in technology domains.
 
